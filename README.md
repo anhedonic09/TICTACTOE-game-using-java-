@@ -1,2 +1,2 @@
 # TICTACTOE-game-using-java-
-TICTACTTOE game working using java for mini projects
+TICTACTOE game working using java for mini projects
